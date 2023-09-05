@@ -56,7 +56,8 @@ a.active,a:hover{
     height: 390px;
     width: auto;
     background-repeat: no-repeat;
-    background-size: cover;
+    /*background-size: cover;*/
+    background-size: 100% 390px;
     background-position: center;
     opacity: 0.5;
     }
